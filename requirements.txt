@@ -1,0 +1,9 @@
+# Requirements for the Streamlit chest X-ray app
+streamlit
+tensorflow
+numpy
+pillow
+opencv-python
+matplotlib
+pandas
+h5py
